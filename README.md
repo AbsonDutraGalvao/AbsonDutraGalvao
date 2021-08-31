@@ -17,12 +17,12 @@
 
 ## Pretendo Aprender
 
-<div style="display: inline_block"><br>
+<center><div style="display: inline_block"><br>
   <img align="center" alt="Abson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Abson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Abson-Dar" height="30" width="40" src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4">
   <img align="right" alt="Abson-Master" height="200" width="250" src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif">
-</div>
+</div></center>
   
   ## Redes Sociais
  
