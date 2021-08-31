@@ -1,10 +1,12 @@
 ## Oiii! Eu sou Abson Dutra Galvão
  
  <div>
- <img align="center" height="220" width="900" alt="Abson-Master"src="https://64.media.tumblr.com/32bcb136dd2df1db7b45b79f279c920e/44d27a9d46b35df3-7b/s500x750/fa0e3124b119e92be00c3a32835ff8925ed7e017.gifv">
+ <img align="center" height="250" width="900" alt="Abson-Master"src="https://64.media.tumblr.com/32bcb136dd2df1db7b45b79f279c920e/44d27a9d46b35df3-7b/s500x750/fa0e3124b119e92be00c3a32835ff8925ed7e017.gifv">
  </div> 
 
-<div style="display: inline_block">
+</br>
+
+<div align="center" style="display: inline_block">
 <a href="https://github.com/AbsonDutraGalvao">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AbsonDutraGalvao&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbsonDutraGalvao&layout=compact&langs_count=7&theme=great-gatsby"/>
@@ -12,7 +14,7 @@
 
 ## Aprendendo
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Abson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Abson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Abson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -21,7 +23,7 @@
 
 ## Pretendo Aprender
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Abson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Abson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Abson-Dar" height="30" width="40" src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4">
