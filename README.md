@@ -1,17 +1,17 @@
-🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫🛫
 ## Oiii! Eu sou Abson Dutra Galvão
  
- <h1>Quem é Abson?</h2>
- <p>Abson Dutra Galvão, é um rapaz 17 anos, que nasceu na cidade de itabuna-bahia a cidade a qual ele vive até hoje, teve contato com computadores e tecnologia des de pequeno, foi nessa época que ele tomou gosto pela programação, desde então seu maior robbie ficar na frente do computador o dia todo fazerndo diversas coisas como: programar, jogar e estudar, ele gosta muito de aprender, e pretende conhecer e continuar estudando tudo que seja relacionado a tecnologia, desde hardware, design, programção, criação de softwares, aplicativos, desenvolvimento de jogos e muito mais.</p>
- 
-  <p>Então esse é o breve resumo de quem eu sou</p>
-
  <div>
  <img align="center" height="250" width="900" alt="Abson-Master"src="https://64.media.tumblr.com/32bcb136dd2df1db7b45b79f279c920e/44d27a9d46b35df3-7b/s500x750/fa0e3124b119e92be00c3a32835ff8925ed7e017.gifv">
  </div> 
 
 </br>
 </br>
+
+ <h1>Quem é Abson?</h2>
+ <p>Abson Dutra Galvão, é um rapaz 17 anos, que nasceu na cidade de itabuna-bahia a cidade a qual ele vive até hoje, teve contato com computadores e tecnologia des de pequeno, foi nessa época que ele tomou gosto pela programação, desde então seu maior robbie ficar na frente do computador o dia todo fazerndo diversas coisas como: programar, jogar e estudar, ele gosta muito de aprender, e pretende conhecer e continuar estudando tudo que seja relacionado a tecnologia, desde hardware, design, programção, criação de softwares, aplicativos, desenvolvimento de jogos e muito mais.</p>
+ 
+  <p>Então esse é o breve resumo de quem eu sou</p>
+
 
 <div  style="display: inline_block">
 <a href="https://github.com/AbsonDutraGalvao">
@@ -47,4 +47,3 @@
   <a href="https://www.linkedin.com/in/abson-dutra-galv%C3%A3o-abb03921a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬🛬
