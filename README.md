@@ -1,6 +1,6 @@
 ## Oiii! Eu sou a Abson
   
-  <div>
+<div style="display: inline_block">
 <a href="https://github.com/AbsonDutraGalvao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbsonDutraGalvao&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbsonDutraGalvao&layout=compact&langs_count=7&theme=great-gatsby"/>
@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-yoda" height="100" width="100" src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif">
+  <img align="right" alt="Rafa-yoda" height="200" width="400" src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif">
 </div>
   
   ##
