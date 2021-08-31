@@ -1,5 +1,9 @@
 ## Oiii! Eu sou Abson Dutra Galvão
-  
+ 
+ <div>
+ <img align="right" alt="Abson-Master"src="https://64.media.tumblr.com/32bcb136dd2df1db7b45b79f279c920e/44d27a9d46b35df3-7b/s500x750/fa0e3124b119e92be00c3a32835ff8925ed7e017.gifv">
+ </div> 
+
 <div style="display: inline_block">
 <a href="https://github.com/AbsonDutraGalvao">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AbsonDutraGalvao&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
@@ -17,13 +21,11 @@
 
 ## Pretendo Aprender
 
-<center><div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Abson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Abson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Abson-Dar" height="30" width="40" src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4">
-  <img align="right" alt="Abson-Master" height="200" width="250" src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif">
-</div></center>
-  
+</div>
   ## Redes Sociais
  
 <div> 
