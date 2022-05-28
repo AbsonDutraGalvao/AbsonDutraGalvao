@@ -1,7 +1,7 @@
 ## Oiii! Eu sou Abson Dutra Galvão
  
  <div>
- <img align="center" height="300" width="900" alt="Abson-Master"src="https://64.media.tumblr.com/32bcb136dd2df1db7b45b79f279c920e/44d27a9d46b35df3-7b/s500x750/fa0e3124b119e92be00c3a32835ff8925ed7e017.gifv">
+ <img align="center" height="500" width="900" alt="Abson-Master"src="https://64.media.tumblr.com/32bcb136dd2df1db7b45b79f279c920e/44d27a9d46b35df3-7b/s500x750/fa0e3124b119e92be00c3a32835ff8925ed7e017.gifv">
  </div> 
 
 </br>
